@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Weather Application<br>🌱 I’m currently learning Flutter Framework<br>💬 Ask me about react, flutter, django, nodejs, mongodb<br>📧 Reach me through timilsinapramod8888@gmail.com<br>
+🔭 I’m currently working on ........<br>🌱 I’m currently learning Flutter Framework<br>💬 Ask me about react, flutter, django, nodejs, mongodb<br>📧 Reach me through timilsinapramod8888@gmail.com<br>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💻 Tech Stack:
